@@ -273,6 +273,6 @@ MIT License — feel free to use this material in your own learning or teaching.
 
 # 🌍 Follow CodeGrill
 
-- 🔥 YouTube: [https://www.youtube.com/@codegrill](https://www.youtube.com/@codegrill)
-- 🔥 LinkedIn: [https://www.linkedin.com/in/bertrand-guegaba/](https://www.linkedin.com/in/andreas-mouzong/)
-- 🔥 GitHub: [https://github.com/codegrill](https://github.com/mouzong)
+- 🔥 YouTube: [CodeGrill](https://www.youtube.com/@codegrill)
+- 🔥 LinkedIn: [Andreas Mouzong](https://www.linkedin.com/in/andreas-mouzong/)
+- 🔥 GitHub: [Andreas](https://github.com/mouzong)
