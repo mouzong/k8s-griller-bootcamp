@@ -246,13 +246,13 @@ k8s-griller-bootcamp/
 
 Deploy a full **3-tier microservice** on Kubernetes:
 
-✔ Docker images
-✔ Helm chart
-✔ Ingress
-✔ Persistent storage
-✔ CI/CD pipeline
-✔ Prometheus monitoring
-✔ Grafana dashboards
+- ✔ Docker images
+- ✔ Helm chart
+- ✔ Ingress
+- ✔ Persistent storage
+- ✔ CI/CD pipeline
+- ✔ Prometheus monitoring
+- ✔ Grafana dashboards
 
 You will present your architecture and deployment strategy at the end.
 
