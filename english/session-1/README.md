@@ -246,11 +246,17 @@ docker run -d \
 
 ## 🧪 LAB 1 — Build a Simple Node.js App
 
-Create project folder:
+### Lab Prerequisites:
+- docker
+- vscode
+- git 
+
+Create project folder and open it in vscode editor:
 
 ```bash
 mkdir docker-lab
 cd docker-lab
+code .
 ```
 
 ### Create `app.js`:
