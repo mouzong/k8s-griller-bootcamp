@@ -1,7 +1,7 @@
 # 🔥 SESSION 2 — Concepts Fondamentaux de Kubernetes
 
-⏱️ **Durée :** 1h30
-🎯 **Objectif :** Comprendre l’architecture centrale et les composants de Kubernetes, puis déployer votre première application.
+- ⏱️ **Durée :** 1h30
+- 🎯 **Objectif :** Comprendre l’architecture centrale et les composants de Kubernetes, puis déployer votre première application.
 
 ---
 
