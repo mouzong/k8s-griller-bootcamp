@@ -254,8 +254,15 @@ docker run -d \
 Create project folder and open it in vscode editor:
 
 ```bash
+# Open GitBash or any other terminal emulator
+
+# Create the lab folder
 mkdir docker-lab
+
+# Navigate into the lab folder
 cd docker-lab
+
+# open the lab folder in Visual Studio Code (vscode)
 code .
 ```
 
