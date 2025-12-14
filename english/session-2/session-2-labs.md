@@ -238,8 +238,7 @@ kubectl logs cm-pod
 ### 1. Create a Secret
 
 ```bash
-kubectl create secret generic db-secret \
-  --from-literal=password=MySecretPass123
+kubectl create secret generic db-secret --from-literal=password=MySecretPass123
 ```
 
 ### 2. Verify
