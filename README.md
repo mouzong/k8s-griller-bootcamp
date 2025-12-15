@@ -137,7 +137,7 @@ k8s-griller-bootcamp/
 ### 📘 Content
 
 * ClusterIP, NodePort, LoadBalancer
-* Ingress Controllers (NGINX)
+* Ingress Controllers (NGINX, GATEWAY API)
 * DNS inside Kubernetes
 * **Hands-on:**
 
