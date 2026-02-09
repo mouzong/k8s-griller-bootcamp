@@ -193,9 +193,8 @@ k8s-griller-bootcamp/
 
 ### 📘 Content
 
-* GitHub Actions / GitLab CI pipelines
+* GitLab CI pipelines
 * Build → Test → Push → Deploy
-* Kustomize basics
 * **Hands-on:**
 
   * Create CI/CD pipeline
